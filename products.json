@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Reebook",
+    "description": "Zapatilla urbana running",
+    "price": 16000,
+    "thumbnail": "https://www.pexels.com/es-es/foto/par-de-zapatillas-adidas-negras-y-grises-con-caja-684152/",
+    "code": 3,
+    "stock": 4
+  },
+  {
+    "id": 2,
+    "title": "Adidas",
+    "description": "Zapatilla urbana",
+    "price": 15000,
+    "thumbnail": "https://www.pexels.com/es-es/foto/foto-de-primer-plano-de-los-zapatos-adidas-1599005/",
+    "code": 3,
+    "stock": 1
+  },
+  {
+    "id": 3,
+    "title": "Reebook",
+    "description": "Zapatilla urbana running",
+    "price": 16000,
+    "thumbnail": "https://www.pexels.com/es-es/foto/par-de-zapatillas-adidas-negras-y-grises-con-caja-684152/",
+    "code": 3,
+    "stock": 4
+  },
+  {
+    "id": 4,
+    "title": "Nike",
+    "description": "Zapatilla urbana",
+    "price": 13000,
+    "thumbnail": "https://www.pexels.com/es-es/foto/foto-de-zapatillas-sobre-fondo-blanco-2529148/",
+    "code": 3,
+    "stock": 10
+  }
+]
